@@ -1,5 +1,5 @@
 # [Elvis D](https://www.linkedin.com/in/elvisdodti) 
-## Backend Engineer | API Developer | GenAI Integrator | NLP Expert | Custom Solutions Architect
+## Backend Engineer | API Developer | GenAI | NLP Expert | Custom Solutions Architect
 
 I'm a passionate developer with a proven track record of delivering robust backend systems, seamlessly integrating APIs, and leveraging cutting-edge technologies like GenAI and natural language processing. My expertise spans custom solutions and integrations, testing and optimization, and deployment and maintenance. I take pride in crafting innovative solutions that exceed expectations and delight users.
 
