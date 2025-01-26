@@ -1,18 +1,45 @@
-# [Elvis D](https://www.linkedin.com/in/elvisdodti) 
-## Backend Engineer | API Developer | GenAI | NLP Expert | Custom Solutions Architect
+# 🚀 Elvis D  
+## **Backend Engineer | API Developer | GenAI Specialist | Custom Solutions Architect**  
 
-I'm a passionate developer with a proven track record of delivering robust backend systems, seamlessly integrating APIs, and leveraging cutting-edge technologies like GenAI and natural language processing. My expertise spans custom solutions and integrations, testing and optimization, and deployment and maintenance. I take pride in crafting innovative solutions that exceed expectations and delight users.
+Passionate about **building scalable backend systems, integrating AI-driven solutions, and crafting seamless API experiences**. I specialize in designing and optimizing **custom backend architectures** that enhance business operations and improve user experiences.  
 
-**Key Skills:**
+With deep expertise in **Python (Django, FastAPI, Flask)** and modern backend technologies, I bring an **innovation-driven approach** to software engineering.  
 
-```markdown
-* Backend Development: Python (Django, Flask, FastAPI)
-* API Development
-* GenAI Integration
-* Natural Language Processing
-* Custom Solutions & Integrations
-* Testing & Optimization
-* Deployment & Maintenance
+---
+
+## **🔹 Key Expertise & Technical Skills**  
+
+✅ **Backend Development** – Python (Django, FastAPI, Flask)  
+✅ **API Development** – REST, GraphQL, WebSockets  
+✅ **GenAI Integration** – OpenAI, LangChain, Vector DBs  
+✅ **Natural Language Processing** – Chatbots, NLP APIs  
+✅ **Custom Solutions & Integrations** – Automation, 3rd-party APIs  
+✅ **Performance Optimization** – Caching, Scaling, Load Balancing  
+✅ **Deployment & DevOps** – Docker, Kubernetes, CI/CD  
+
+---
+
+## **📌 Featured Work & Case Studies**  
+
+### **1️⃣ Scalable API for Tech Startups**  
+📌 **Tech Stack:** Django, PostgreSQL, Redis, Celery  
+📌 **Impact:** Reduced API response time by **40%**, handled **1M+ requests/day**  
+
+### **3️⃣ Custom Data Pipeline for Analytics**  
+📌 **Tech Stack:** Python, Pandas, AWS Lambda, S3  
+📌 **Impact:** Processed & visualized **real-time data for 1K+ users**  
+
+---
+
+## **📊 Tech Stack & Tools**  
+
+```yaml
+- Programming: Python, JavaScript
+- Frameworks: Django, FastAPI, Flask
+- APIs: REST, GraphQL, WebSockets
+- Databases: PostgreSQL, MySQL, Redis, MongoDB
+- AI & GenAI: OpenAI API, LangChain, NLP
+- DevOps: Docker, Kubernetes, AWS, CI/CD
 ```
 **Contact:**
 ```markdown
