@@ -1,5 +1,5 @@
 # 🚀 Elvis D  
-## **Backend Engineer | API Developer | GenAI Specialist | Custom Solutions Architect**  
+## **FullStack Engineer | API Developer | GenAI Specialist | Custom Solutions Architect**  
 
 Passionate about **building scalable backend systems, integrating AI-driven solutions, and crafting seamless API experiences**. I specialize in designing and optimizing **custom backend architectures** that enhance business operations and improve user experiences.  
 
