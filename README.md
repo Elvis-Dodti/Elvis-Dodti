@@ -41,10 +41,10 @@ With deep expertise in **Python (Django, FastAPI, Flask)** and modern backend te
 
 ```yaml
 - Programming: Python, JavaScript
-- Frameworks: Django, FastAPI, Flask
+- Frameworks: Django, FastAPI, Flask, Next.js, React.js, Axios.js, Celery
 - APIs: REST, GraphQL, WebSockets
 - Databases: PostgreSQL, MySQL, Redis, MongoDB
-- AI & GenAI: OpenAI API, LangChain, NLP
+- AI & GenAI: OpenAI API, LangChain, NLP, HF
 - DevOps: Docker, Kubernetes, AWS, CI/CD
 ```
 **Contact:**
