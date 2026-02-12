@@ -1,4 +1,10 @@
-# 🚀 Elvis D  
+# 🚀 Elvis D.
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+       alt="Buy Me A Coffee" 
+       height="30">
+</a>
+
 ## **FullStack Engineer | API Developer | GenAI Specialist | Custom Solutions Architect**  
 
 Passionate about **building scalable backend systems, integrating AI-driven solutions, and crafting seamless API experiences**. I specialize in designing and optimizing **custom backend architectures** that enhance business operations and improve user experiences.  
